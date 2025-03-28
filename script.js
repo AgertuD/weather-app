@@ -14,11 +14,11 @@ async function getWeatherForCity(city, container) {
         const response = await fetch(url);
         const data = await response.json();
         if (data.cod === 200) {
-            // Determine the weather condition and provide advice
+            // Determines the weather condition and provide advice
             const weatherCondition = data.weather[0].main;
             let advice = getAdviceForWeather(weatherCondition);
 
-            // Create the weather card
+            // Creates the weather card
             const weatherCard = document.createElement("div");
             weatherCard.className = "card";
             weatherCard.innerHTML = `
