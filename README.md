@@ -97,5 +97,5 @@ This application is deployed on two web servers (Web01 and Web02) with a load ba
   - Online tutorials and documentation from MDN Web Docs and W3Schools
 
 ## Author
-[Your Name] - Software Engineering Student
+Agertu Diriba - Software Engineering Student
 
