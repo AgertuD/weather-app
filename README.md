@@ -95,7 +95,8 @@ This application is deployed on two web servers (Web01 and Web02) with a load ba
   - Bootstrap for UI styling
   - Fetch API for asynchronous requests
   - Online tutorials and documentation from MDN Web Docs and W3Schools
-
+## Demo Video link
+https://youtu.be/3uI9FNFJkLg
 ## Author
 Agertu Diriba - Software Engineering Student
 
